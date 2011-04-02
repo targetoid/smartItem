@@ -1,0 +1,43 @@
+name: SmartItem
+
+main: com.bukkit.multi.item.SmartItem
+version: 1.0
+SmartItem:
+commands:
+  item:
+    description: Spawns items
+    usage: |
+           /<command> - DESCRIPTION
+  i:
+    description: Spawns items (easire to type)
+    usage: |
+           /<command> - DESCRIPTION
+  day:
+    description: Makes it day
+    usage: |
+           /<command> - DESCRIPTION
+  night:
+    description: Makes it night
+    usage: |
+           /<command> - DESCRIPTION
+  tp:
+    description: Teleports to a player
+    usage: |
+           /<command> - DESCRIPTION
+  tphere:
+    description: Teleports a player to you
+    usage: |
+           /<command> - DESCRIPTION
+  heal:
+    description: heals you
+    usage: |
+           /<command> - DESCRIPTION
+  help:
+    description: Gives a basic command
+    usage: |
+           /<command> - DESCRIPTION
+  list:
+    description: Lists online players
+    usage: |
+           /<command> - DESCRIPTION
+
